@@ -1,0 +1,40 @@
+                              Leif Metcalf
+
+             56B Church Street, Auckland 0624 New Zealand
+                   (+64) 022 135 3820    me@leif.nz
+
+
+Education
+------------------------------------------------------------------------
+University of Auckland                                             2019-
+  * Mathematics major
+  * Interests
+    * Abstract algebra
+    * Combinatorics
+    * Functional programming languages
+
+
+Experience
+------------------------------------------------------------------------
+Tsuru Capital LLC                                                   2020
+  * Six months
+  * Wrote Haskell to visualise live market data and our trader model.
+    I learned about options trading (Tsuru is a market-maker on the KRX)
+    and writing GUIs (mostly with function reactive programming).
+
+Devonport Primary School                                            2018
+  * Holiday janitor
+
+
+Sundry
+------------------------------------------------------------------------
+ABRSM grade 6 piano                                                 2019
+  * Distinction
+
+Ran the Senior College cooking club                                 2018
+
+Skills
+  * Haskell
+  * Linux/Unix systems
+  * Mathematica
+  * Rust
