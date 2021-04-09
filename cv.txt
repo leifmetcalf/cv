@@ -9,7 +9,7 @@ Education
 University of Auckland                                             2019-
   * Mathematics major
   * Interests
-    * Abstract algebra
+    * Analysis
     * Combinatorics
     * Functional programming languages
 
