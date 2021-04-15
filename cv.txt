@@ -20,7 +20,7 @@ Tsuru Capital LLC                                                   2020
   * Six months
   * Wrote Haskell to visualise live market data and our trader model.
     I learned about options trading (market-making, specifically)
-    and writing GUIs (with function reactive programming).
+    and writing GUIs (with functional reactive programming).
 
 
 Sundry
