@@ -8,18 +8,16 @@ Education
 ------------------------------------------------------------------------
 University of Auckland                                             2019-
   * Mathematics major
-    * Two first-in-course awards
   * Interests
     * Analysis
     * Combinatorics
-    * Functional programming languages
 
 
 Experience
 ------------------------------------------------------------------------
 Tsuru Capital LLC                                                   2020
   * Six months
-  * Wrote Haskell to visualise live market data and our trader model.
+  * Wrote Haskell to visualise live market data and the trader process.
     I learned about options trading (market-making, specifically)
     and writing GUIs (with functional reactive programming).
 
