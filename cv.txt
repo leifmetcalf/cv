@@ -6,20 +6,25 @@
 
 Education
 ------------------------------------------------------------------------
-University of Auckland                                             2019-
+University of Auckland                Auckland                 2019-2022
   * Mathematics major
   * Interests
-    * Analysis
     * Combinatorics
+    * Topology
 
 
 Experience
 ------------------------------------------------------------------------
-Tsuru Capital LLC                                                   2020
-  * Six months
-  * Wrote Haskell to visualise live market data and the trader process.
-    I learned about options trading (market-making, specifically)
-    and writing GUIs (with functional reactive programming).
+Tsuru Capital                         Tokyo                         2020
+  * Six-month internship
+  * Wrote Haskell to visualise live data from the market and the trader
+    process. I learned about market-making on derivatives markets and
+    writing GUIs with functional reactive programming.
+
+Jane Street                           Hong Kong                     2021
+  * Three-month internship
+  * Researched and tested potential trading strategies. I learned about
+    some market dynamics and practised trading with the other interns.
 
 
 Sundry
