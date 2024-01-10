@@ -1,6 +1,5 @@
                               Leif Metcalf
 
-             56B Church Street, Auckland 0624 New Zealand
                    (+64) 022 135 3820    me@leif.nz
 
 
@@ -16,15 +15,15 @@ University of Auckland                Auckland                 2019-2022
 Experience
 ------------------------------------------------------------------------
 Tsuru Capital                         Tokyo                         2020
-  * Six-month internship
-  * Wrote Haskell to visualise live data from the market and the trader
-    process. I learned about market-making on derivatives markets and
-    writing GUIs with functional reactive programming.
+  * Six-month internship.
+  * Wrote Haskell to visualise live data from the market and our live
+    trading.
 
-Jane Street                           Hong Kong                     2021
-  * Three-month internship
-  * Researched and tested potential trading strategies. I learned about
-    some market dynamics and practised trading with the other interns.
+Jane Street                           Hong Kong               2021, 2023
+  * Internship and full-time.
+  * Managed live trading and tested potential strategies. I learned
+    about market dynamics and how to test hypotheses with
+    low-signal-to-noise data.
 
 
 Sundry
@@ -32,3 +31,4 @@ Sundry
 Skills
   * Haskell
   * Linux/Unix systems
+  * Financial modelling
