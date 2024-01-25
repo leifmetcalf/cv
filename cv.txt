@@ -6,7 +6,7 @@
 Education
 ------------------------------------------------------------------------
 University of Auckland                Auckland                 2019-2022
-  * Mathematics major
+  * Bachelor of Science, majoring in Mathematics
   * Interests
     * Combinatorics
     * Topology
@@ -15,15 +15,15 @@ University of Auckland                Auckland                 2019-2022
 Experience
 ------------------------------------------------------------------------
 Tsuru Capital                         Tokyo                         2020
-  * Six-month internship.
+  * Six-month internship
   * Wrote Haskell to visualise live data from the market and our live
-    trading.
+    trading
 
 Jane Street                           Hong Kong               2021, 2023
-  * Full-time.
+  * Full-time
   * Managed live trading and tested potential strategies. I learned
     about market dynamics and how to test hypotheses with
-    low-signal-to-noise data.
+    low-signal-to-noise data
 
 
 Sundry
