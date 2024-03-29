@@ -16,12 +16,11 @@ Experience
 ------------------------------------------------------------------------
 Tsuru Capital                         Tokyo                         2020
   * Six-month internship
-  * Wrote Haskell to visualise live data from the market and our live
-    trading
+  * Wrote Haskell to monitor our trades and other market data.
 
 Jane Street                           Hong Kong               2021, 2023
   * Full-time
-  * Managed live trading and tested potential strategies. I learned
+  * Managed ETF live trading and tested potential strategies. I learned
     about market dynamics and how to test hypotheses with
     low-signal-to-noise data
 
