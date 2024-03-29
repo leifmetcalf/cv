@@ -5,7 +5,7 @@
 
 Education
 ------------------------------------------------------------------------
-University of Auckland                Auckland                 2019-2022
+University of Auckland                Auckland           2019-2022, 2024
   * Bachelor of Science, majoring in Mathematics
   * Interests
     * Combinatorics
@@ -20,7 +20,7 @@ Tsuru Capital                         Tokyo                         2020
 
 Jane Street                           Hong Kong               2021, 2023
   * Full-time
-  * Managed ETF live trading and tested potential strategies. I learned
+  * Managed live trading and tested potential strategies. I learned
     about market dynamics and how to test hypotheses with
     low-signal-to-noise data
 
