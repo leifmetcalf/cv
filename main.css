@@ -1,0 +1,120 @@
+@font-face {
+  font-family: triplicate_a;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-display: auto;
+  src: url("triplicate_a_poly_regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: triplicate_a;
+  font-style: italic;
+  font-weight: normal;
+  font-stretch: normal;
+  font-display: auto;
+  src: url("triplicate_a_poly_italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: triplicate_a;
+  font-style: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  font-display: auto;
+  src: url("triplicate_a_poly_bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: triplicate_a;
+  font-style: italic;
+  font-weight: bold;
+  font-stretch: normal;
+  font-display: auto;
+  src: url("triplicate_a_poly_bold_italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: triplicate_a_caps;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-display: auto;
+  src: url("triplicate_a_poly_caps_regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: triplicate_a_caps;
+  font-style: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  font-display: auto;
+  src: url("triplicate_a_poly_caps_bold.woff2") format("woff2");
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "triplicate_a";
+  font-variant-numeric: oldstyle-nums;
+}
+
+a {
+  all: unset;
+}
+
+h1 {
+  all: unset;
+}
+
+h2 {
+  all: unset;
+}
+
+h3 {
+  all: unset;
+  font-family: "triplicate_a_caps";
+}
+
+ul {
+  list-style-type: "• "
+}
+
+.cv {
+  display: grid;
+  grid-template-columns: 1fr max-content max-content;
+  max-width: 40em;
+  row-gap: 0.5em;
+  column-gap: 4em;
+}
+
+.cv > * {
+  grid-column: 1 / -1;
+}
+
+.cv > .title {
+  justify-self: center;
+  text-align: center;
+}
+
+.cv > .title > address {
+  all: unset;
+  font-variant-numeric: oldstyle-nums;
+  display: flex;
+  gap: 2em;
+}
+
+.cv > .section {
+  margin-top: 1em;
+}
+
+.cv > .years {
+  text-align: right;
+}
+
+.cv > h3 {
+  grid-column: auto;
+  margin-top: 0.5em;
+
